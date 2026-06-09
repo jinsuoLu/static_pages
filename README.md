@@ -13,4 +13,4 @@
 
 ## 使用
 
-在线访问：https://jinsuolu.github.io/gaoxin-paring/
+在线访问：https://jinsuolu.github.io/static_pages/
